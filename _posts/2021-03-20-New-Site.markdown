@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "First Post on a new site"
+date:   2021-03-20 12:06:13 +0000
+categories: update Jekyll markdown
+---
+I never really thought about making a blog, until a friend asked me how to make one. I have settled on the use of [Jekyll](https://jekyllrb.com/) for creating my site due to its intergration with [Github Pages](https://pages.github.com/) and use of markdown language.
+
+As someone who (now having discovered markdown) has started to dislike the complexity and clutter of a program like microsoft word, this solution is near perfect. It allows me to litterally copy and paste my work into a blog post and it just work!
+
+So stay tuned, buckel up and possibly even subscribe to my [RSS feed](/_site/feed.xml) (if that's something people still do)!
+
+**Liam**
