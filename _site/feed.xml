@@ -1,9 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-20T17:32:02+00:00</updated><id>/feed.xml</id><title type="html">The Polyphonic Winter Blog</title><subtitle>A blog about a guy, doing stuff.</subtitle><entry><title type="html">First Post on a new site</title><link href="/update/jekyll/markdown/2021/03/20/New-Site.html" rel="alternate" type="text/html" title="First Post on a new site" /><published>2021-03-20T12:06:13+00:00</published><updated>2021-03-20T12:06:13+00:00</updated><id>/update/jekyll/markdown/2021/03/20/New-Site</id><content type="html" xml:base="/update/jekyll/markdown/2021/03/20/New-Site.html">&lt;p&gt;I never really thought about making a blog, until a friend asked me how to make one. I have settled on the use of &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; for creating my site due to its intergration with &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; and use of markdown language.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://polyphonicwinter.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://polyphonicwinter.com/" rel="alternate" type="text/html" /><updated>2021-03-20T20:43:17+00:00</updated><id>https://polyphonicwinter.com/feed.xml</id><title type="html">The Polyphonic Winter Blog</title><subtitle>A blog about a guy, doing stuff.</subtitle><entry><title type="html">First Post on a new site</title><link href="https://polyphonicwinter.com/update/jekyll/markdown/2021/03/20/New-Site.html" rel="alternate" type="text/html" title="First Post on a new site" /><published>2021-03-20T12:06:13+00:00</published><updated>2021-03-20T12:06:13+00:00</updated><id>https://polyphonicwinter.com/update/jekyll/markdown/2021/03/20/New-Site</id><content type="html" xml:base="https://polyphonicwinter.com/update/jekyll/markdown/2021/03/20/New-Site.html">&lt;p&gt;I never really thought about making a blog, until a friend asked me how to make one. I have settled on the use of &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; for creating my site due to its intergration with &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; and use of markdown language.&lt;/p&gt;
 
-&lt;p&gt;As someone who (now having discovered markdown) has started to dislike the complexity and clutter of a program like microsoft word, this solution is near perfect. It allows me to litterally copy and paste my work into a blog post and it just work!&lt;/p&gt;
+&lt;p&gt;As someone who (now having discovered markdown) has started to dislike the complexity and clutter of a program like microsoft word, this solution is near perfect. It allows me to litterally copy and paste my work into a blog post and it just work!&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;$\frac{d}{t}$&lt;/p&gt;
+&lt;p&gt;Look pretty \(\LaTeX\) support with &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;So stay tuned, buckel up and possibly even subscribe to my &lt;a href=&quot;/_site/feed.xml&quot;&gt;RSS feed&lt;/a&gt; (if that’s something people still do)!&lt;/p&gt;
+\[\begin{align*}
+  &amp;amp; \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  &amp;amp; (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) &amp;amp; \cdots &amp;amp; \phi(e_1, e_n) \\
+      \vdots &amp;amp; \ddots &amp;amp; \vdots \\
+      \phi(e_n, e_1) &amp;amp; \cdots &amp;amp; \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}\]
 
-&lt;p&gt;&lt;strong&gt;Liam&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="update" /><category term="Jekyll" /><category term="markdown" /><summary type="html">I never really thought about making a blog, until a friend asked me how to make one. I have settled on the use of Jekyll for creating my site due to its intergration with Github Pages and use of markdown language.</summary></entry></feed>
+&lt;p&gt;and Images.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/smile.png&quot; alt=&quot;smiley face&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 1: Smiley Face&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So stay tuned, buckel up and possibly even subscribe to my &lt;a href=&quot;/feed.xml&quot;&gt;RSS feed&lt;/a&gt; (if that’s something people still do)!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liam&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Footnotes work &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="update" /><category term="Jekyll" /><category term="markdown" /><summary type="html">I never really thought about making a blog, until a friend asked me how to make one. I have settled on the use of Jekyll for creating my site due to its intergration with Github Pages and use of markdown language.</summary></entry></feed>
