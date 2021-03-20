@@ -8,6 +8,9 @@ I never really thought about making a blog, until a friend asked me how to make 
 
 As someone who (now having discovered markdown) has started to dislike the complexity and clutter of a program like microsoft word, this solution is near perfect. It allows me to litterally copy and paste my work into a blog post and it just work!
 
+$\frac{d}{t}$
+
+
 So stay tuned, buckel up and possibly even subscribe to my [RSS feed](/_site/feed.xml) (if that's something people still do)!
 
 **Liam**
